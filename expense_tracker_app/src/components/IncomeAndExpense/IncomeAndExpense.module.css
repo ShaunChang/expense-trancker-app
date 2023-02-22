@@ -1,0 +1,8 @@
+.IncomeAndExpenseContainer{
+    display: flex;
+}
+
+.IncomeOrExpense{
+    width: 90px;
+    height: 30px;
+}
