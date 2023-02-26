@@ -1,5 +1,4 @@
-# expense-trancker-app 
-## main function
+# main function
   1. show current banlance
   2. track transaction
   3. add new transaction
